@@ -14,7 +14,6 @@ A comprehensive music recommendation system built on the **Fundamental of Big-Da
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Team Members](#team-members)
 - [Project Phases](#project-phases)
 - [How It Works](#how-it-works)
 - [Future Enhancements](#future-enhancements)
@@ -285,17 +284,6 @@ Nearest Neighbors Indices: [27, 90, 4, 51, 6]
   4. Track ID: 212 (Distance: 120.51)
   5. Track ID: 255 (Distance: 120.66)
 ```
-
----
-
-## 👥 Team Members
-
-| Name | Roll Number | Email |
-|------|------------|-------|
-| **Umaima Hashmi** | 22I-1984 | uaima.hashmi@student.edu |
-| **Nooran Ishtiaq** | 22I-2010 | nooran.ishtiaq@student.edu |
-| **M. Manhab Zafar** | 22I-1957 | manhab.zafar@student.edu |
-
 ---
 
 ## 📈 Project Phases
