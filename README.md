@@ -378,7 +378,7 @@ This project is part of the **Fundamental of Big-Data Analysis** course curricul
 
 ## 📞 Support & Contact
 
-For questions or issues, please reach out to any team member or open an issue on GitHub.
+For questions or issues, please reach out at: nooranishtiaq@gmail.com
 
 ---
 
